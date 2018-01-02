@@ -1,7 +1,8 @@
 /*------------------------------
 2018/01/03/
 DE-rand-to-best-1-bin
-動作させるためにはEigenが必要
+動作させるためにはEigen3.3.4が必要 (http://eigen.tuxfamily.org/index.php?title=News:Eigen_3.3.4_released!)
+
 Eigenディレクトリを以下のディレクトリに設置
 rand-to-best-1-bin/
                 ├ Eigen/
